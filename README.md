@@ -23,5 +23,5 @@ For more information you can [view the presentation:](https://docs.google.com/pr
 
 ## Swift specific guidelines
 
-- Clone this repo to start working
+- Fork this repo to start working
 ... Tancrede to complete
