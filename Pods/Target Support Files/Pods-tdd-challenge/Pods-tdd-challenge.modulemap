@@ -1,0 +1,6 @@
+framework module Pods_tdd_challenge {
+  umbrella header "Pods-tdd-challenge-umbrella.h"
+
+  export *
+  module * { export * }
+}
