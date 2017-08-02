@@ -25,3 +25,6 @@ For more information you can [view the presentation:](https://docs.google.com/pr
 
 - Fork this repo to start working
 ... Tancrede to complete
+
+## User Story
+As a TrueView user when I see another user's profile, I want to see whether the user loves beer, chicken wings or TrueView.
